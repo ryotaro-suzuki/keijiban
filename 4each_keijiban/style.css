@@ -1,0 +1,151 @@
+.headgazou img {
+    display: block;
+    width: 300px;
+    height: 45px;
+}
+
+.menu {
+    background-color: black;
+    width: 100%;
+    height: 30px;
+}
+
+.menu li {
+    display: inline-block;
+    list-style: none;
+    line-height: 30px;
+    padding-right: 30px;
+    color: white;
+}
+
+.main-container {
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.left {
+    float: left;
+    width: 70%;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+.left h1 {
+    font-size: 25px;
+    border-bottom: 2px solid gray;
+    border-left: 5px solid black;
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+h2{ margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: 4px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 95%;
+    font-size: 20px;
+}
+
+form{margin: 5px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 95%;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text, textarea{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color:  #999;
+    background: #fff;
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.kiji2 {margin: 5px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 95%;
+}
+
+h3{margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom: 4px #ebebeb solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 95%;
+    font-size: 20px;
+}
+
+.contents{
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    font-size: 13px;
+}
+
+.handlename{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    margin: 0 auto;
+    font-size: 7px;
+}
+
+.right {
+    float: left;
+    width:30%;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+.right h1 {
+    border-bottom: 2px dotted black;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.kiji li {
+    list-style: none;
+    line-height: 2;
+}
+
+.link li {
+    list-style: none;
+    line-height: 2;
+}
+
+.ctg li {
+    list-style: none;
+    line-height: 2;
+}
+
+footer {
+    clear: left;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    margin-bottom: 0;
+}
